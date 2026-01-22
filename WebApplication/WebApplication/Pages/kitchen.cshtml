@@ -1,0 +1,66 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model RazorPagesApp.Pages.kitchenModel
+@{
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SMART SPACE</title>
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width" />
+    <script src="//cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <script src="//cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+
+</head>
+<body     text="#00FFFF" bgcolor="#000000">
+    <h3 align = "center"> 
+    <button > <a asp-page = "Index">Главная</a></button>
+    <button > <a asp-page = "bedroom">Спальня</a></button>
+    <button > <a asp-page = "childrens_room">Детская</a></button>
+    <button > <a asp-page = "hall">Зал</a></button>
+    <button > <a asp-page = "hallway">Коридор</a></button>
+    Кухня
+    <br>
+    </h3>
+
+    <!-- начало графика-->
+        <form align=center  method="post">
+        <div>@Html.Raw(Model.ChartJson)</div>
+        <br />
+        </form>
+    <!-- конец графика-->
+
+    <!-- начало таблицы-->
+<table  align=center width=500px>
+<colgroup>
+    <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+    <col span="6" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+</colgroup>
+<caption><h3>Вывод информации с датчика</h3></caption>
+  <tr align=center style="background:Purple; color: Aqua">
+    <th>ID</th>
+    <th>Температура &degС</th>
+    <th>Влажность %</th>
+    <th>Время</th>
+    <th>Дата</th>
+   </tr>
+        @foreach (var Sensor in Model.SensorData_05.OrderByDescending(p => p.date))
+        {
+                             <tr align=center>
+                                 <td>@Sensor.Id</td>
+                                 <td>@Sensor.temp</td>
+                                 <td>@Sensor.hum</td>
+                                 <td>@Sensor.date.TimeOfDay.ToString().Substring(0, 5)</td>
+                                 <td>@Sensor.date.Date.ToString().Substring(0, 10)</td>
+
+                             </tr>  
+        }
+    </table>
+
+<br><br><br>
+<!-- конец таблицы-->
+</body>
+</html>

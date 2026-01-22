@@ -1,0 +1,88 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model RazorPagesApp.Pages.IndexModel
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SMART SPACE</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="~/WebApplication.styles.css" />
+</head>
+<body text="#00FFFF" bgcolor="#000000">
+
+<h3 align = "center"> 
+Главная 
+<button > <a asp-page = "bedroom">Спальня</a></button>
+<button > <a asp-page = "childrens_room">Детская</a></button>
+<button > <a asp-page = "hall">Зал</a></button>
+<button > <a asp-page = "hallway">Коридор</a></button>
+<button > <a asp-page = "kitchen">Кухня</a></button>
+<br>
+</h3>
+
+        <!-- начало таблицы-->
+<table  align=center width=700px>
+<colgroup>
+    <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+    <col span="7" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+</colgroup>
+<caption><h3>Вывод информации с датчиков</h3></caption>
+  <tr align=center style="background:Purple; color: Aqua">
+    <th>Объект</th>
+    <th>ID</th>
+    <th>Температура &degС</th>
+    <th>Влажность %</th>
+    <th>Время</th>
+    <th>Дата</th>
+  </tr>
+  <tr align=center>
+   <td>Спальня</td>
+   <td>@Model.SensorData_01[@Model.iMaxSearch(@Model.SensorData_01)].Id</td> 
+   <td>@Model.SensorData_01[@Model.iMaxSearch(@Model.SensorData_01)].temp</td>
+   <td>@Model.SensorData_01[@Model.iMaxSearch(@Model.SensorData_01)].hum</td>
+   <td>@Model.SensorData_01[@Model.iMaxSearch(@Model.SensorData_01)].date.TimeOfDay.ToString().Substring(0, 5)</td>
+   <td>@Model.SensorData_01[@Model.iMaxSearch(@Model.SensorData_01)].date.Date.ToString().Substring(0, 10)</td>
+ </tr>  
+  <tr align=center>
+   <td>Детская</td>
+   <td>@Model.SensorData_02[@Model.iMaxSearch(@Model.SensorData_02)].Id</td>
+   <td>@Model.SensorData_02[@Model.iMaxSearch(@Model.SensorData_02)].temp</td>
+   <td>@Model.SensorData_02[@Model.iMaxSearch(@Model.SensorData_02)].hum</td>
+   <td>@Model.SensorData_02[@Model.iMaxSearch(@Model.SensorData_02)].date.TimeOfDay.ToString().Substring(0, 5)</td>
+   <td>@Model.SensorData_02[@Model.iMaxSearch(@Model.SensorData_02)].date.Date.ToString().Substring(0, 10)</td>
+  </tr>     
+  <tr align=center>
+   <td>Зал</td>
+   <td>@Model.SensorData_03[@Model.iMaxSearch(@Model.SensorData_03)].Id</td>
+   <td>@Model.SensorData_03[@Model.iMaxSearch(@Model.SensorData_03)].temp</td>
+   <td>@Model.SensorData_03[@Model.iMaxSearch(@Model.SensorData_03)].hum</td>
+   <td>@Model.SensorData_03[@Model.iMaxSearch(@Model.SensorData_03)].date.TimeOfDay.ToString().Substring(0, 5)</td>
+   <td>@Model.SensorData_03[@Model.iMaxSearch(@Model.SensorData_03)].date.Date.ToString().Substring(0, 10)</td>
+  </tr>   
+  <tr align=center>
+   <td>Коридор</td>
+   <td>@Model.SensorData_04[@Model.iMaxSearch(@Model.SensorData_04)].Id</td>
+   <td>@Model.SensorData_04[@Model.iMaxSearch(@Model.SensorData_04)].temp</td>
+   <td>@Model.SensorData_04[@Model.iMaxSearch(@Model.SensorData_04)].hum</td>
+   <td>@Model.SensorData_04[@Model.iMaxSearch(@Model.SensorData_04)].date.TimeOfDay.ToString().Substring(0, 5)</td>
+   <td>@Model.SensorData_04[@Model.iMaxSearch(@Model.SensorData_04)].date.Date.ToString().Substring(0, 10)</td>
+  </tr>  
+  <tr align=center>
+   <td>Кухня</td>
+   <td>@Model.SensorData_05[@Model.iMaxSearch(@Model.SensorData_05)].Id</td>
+   <td>@Model.SensorData_05[@Model.iMaxSearch(@Model.SensorData_05)].temp</td>
+   <td>@Model.SensorData_05[@Model.iMaxSearch(@Model.SensorData_05)].hum</td>
+   <td>@Model.SensorData_05[@Model.iMaxSearch(@Model.SensorData_05)].date.TimeOfDay.ToString().Substring(0, 5)</td>
+   <td>@Model.SensorData_05[@Model.iMaxSearch(@Model.SensorData_05)].date.Date.ToString().Substring(0, 10)</td>
+  </tr>  
+
+</table>
+<br><br><br>
+<!-- конец таблицы-->
+
+
+
+</body>
+</html>

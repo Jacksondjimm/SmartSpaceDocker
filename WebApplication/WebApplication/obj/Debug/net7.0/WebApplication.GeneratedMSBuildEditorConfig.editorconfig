@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication
+build_property.RootNamespace = WebApplication
+build_property.ProjectDir = G:\Works\C#\23_04_29 запуск сайта smart на IIS from homePC_manysens_manywin_with db\WebApplication\WebApplication\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Works\C#\23_04_29 запуск сайта smart на IIS from homePC_manysens_manywin_with db\WebApplication\WebApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Works/C\#/23_04_29 запуск сайта smart на IIS from homePC_manysens_manywin_with db/WebApplication/WebApplication/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Works/C\#/23_04_29 запуск сайта smart на IIS from homePC_manysens_manywin_with db/WebApplication/WebApplication/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hob0skvta0

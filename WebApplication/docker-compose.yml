@@ -1,0 +1,30 @@
+#version: '3.4'
+
+services:
+  razorpagesapp:
+    image: ${DOCKER_REGISTRY-}razorpagesapp
+    container_name: razorpagesapp
+    build:
+      context: .
+      dockerfile: WebApplication/Dockerfile
+    ports:
+      - "5000:5000"
+#      - "5001:5001"
+    depends_on:
+      - razorpagesapp.database
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - TZ=Europe/Moscow
+      - DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
+
+  razorpagesapp.database:
+    image: postgres:17
+    container_name: razorpagesapp.database
+    environment:
+      - POSTGRES_DB=SmartSpaceDb #usersdbSSP
+      - POSTGRES_USER=YourLogin
+      - POSTGRES_PASSWORD=YourPassword
+    volumes:
+      - ./.containers/razorpagesapp-db:/var/lib/postgresql/data
+    ports:
+      - 5432:5432

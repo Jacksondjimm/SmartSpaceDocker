@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "RBUujem85n8JnaZgSkq7wPRk3vvUQZZAwnpSMBYXrRs=",
+  "Source": "RazorPagesApp",
+  "BasePath": "_content/RazorPagesApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "G:\\Works\\C#\\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\\WebApplication\\WebApplication\\obj\\Release\\net7.0\\win-x64\\scopedcss\\bundle\\RazorPagesApp.styles.css",
+      "SourceId": "RazorPagesApp",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Works\\C#\\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\\WebApplication\\WebApplication\\obj\\Release\\net7.0\\win-x64\\scopedcss\\bundle\\",
+      "BasePath": "_content/RazorPagesApp",
+      "RelativePath": "RazorPagesApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Works\\C#\\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\\WebApplication\\WebApplication\\obj\\Release\\net7.0\\win-x64\\scopedcss\\bundle\\RazorPagesApp.styles.css"
+    },
+    {
+      "Identity": "G:\\Works\\C#\\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\\WebApplication\\WebApplication\\obj\\Release\\net7.0\\win-x64\\scopedcss\\projectbundle\\RazorPagesApp.bundle.scp.css",
+      "SourceId": "RazorPagesApp",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Works\\C#\\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\\WebApplication\\WebApplication\\obj\\Release\\net7.0\\win-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RazorPagesApp",
+      "RelativePath": "RazorPagesApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Works\\C#\\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\\WebApplication\\WebApplication\\obj\\Release\\net7.0\\win-x64\\scopedcss\\projectbundle\\RazorPagesApp.bundle.scp.css"
+    }
+  ]
+}

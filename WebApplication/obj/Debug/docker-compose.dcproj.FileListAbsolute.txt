@@ -1,0 +1,90 @@
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.deps.json
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.runtimeconfig.json
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\appsettings.Development.json
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\appsettings.json
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.staticwebassets.runtime.json
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.staticwebassets.endpoints.json
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.exe
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\FusionCharts.DataEngine.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\FusionCharts.Visualization.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\System.Data.SqlClient.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\Npgsql.dll
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.pdb
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Мартынов полезное\Work\Docker\25_11_26_Smart_PGDB_docker\WebApplication\obj\Debug\docker-c.35A3FFBA.Up2Date
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\appsettings.Development.json
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\appsettings.json
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.staticwebassets.endpoints.json
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.deps.json
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.runtimeconfig.json
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.staticwebassets.runtime.json
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.exe
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\FusionCharts.DataEngine.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\FusionCharts.Visualization.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\System.Data.SqlClient.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Npgsql.dll
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.pdb
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Мартынов полезное\Work\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-c.35A3FFBA.Up2Date
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\appsettings.Development.json
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\appsettings.json
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.deps.json
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.runtimeconfig.json
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.exe
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\FusionCharts.DataEngine.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\FusionCharts.Visualization.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.Extensions.Options.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Newtonsoft.Json.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\System.Data.SqlClient.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\Npgsql.dll
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesApp.pdb
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-c.35A3FFBA.Up2Date

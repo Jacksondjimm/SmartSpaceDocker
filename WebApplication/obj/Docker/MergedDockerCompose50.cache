@@ -1,0 +1,60 @@
+name: dockercompose124806454444023437
+services:
+  razorpagesapp:
+    build:
+      context: G:\Works\Docker\25_11_25_Smart_PGDB_docker_GHrelease\SmartSpace\WebApplication
+      dockerfile: WebApplication/Dockerfile
+    container_name: razorpagesapp
+    depends_on:
+      razorpagesapp.database:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "5000"
+      DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "false"
+      TZ: Europe/Moscow
+    image: razorpagesapp
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5000"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Jackson\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Jackson\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+  razorpagesapp.database:
+    container_name: razorpagesapp.database
+    environment:
+      POSTGRES_DB: SmartSpaceDb
+      POSTGRES_PASSWORD: YourPassword
+      POSTGRES_USER: YourLogin
+    image: postgres:17
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: G:\Works\Docker\25_11_25_Smart_PGDB_docker_GHrelease\SmartSpace\WebApplication\.containers\razorpagesapp-db
+        target: /var/lib/postgresql/data
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose124806454444023437_default

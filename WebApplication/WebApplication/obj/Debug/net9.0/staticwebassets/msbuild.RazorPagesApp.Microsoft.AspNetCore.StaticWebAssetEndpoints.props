@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/RazorPagesApp/RazorPagesApp.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RazorPagesApp.s4evujtz94.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tAxehUodPbjZk/zpgXKJQ1i1fRxvGwPep5rGWiuagX4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"717"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tAxehUodPbjZk/zpgXKJQ1i1fRxvGwPep5rGWiuagX4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Nov 2025 09:41:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorPagesApp/RazorPagesApp.s4evujtz94.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RazorPagesApp.s4evujtz94.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s4evujtz94"},{"Name":"integrity","Value":"sha256-tAxehUodPbjZk/zpgXKJQ1i1fRxvGwPep5rGWiuagX4="},{"Name":"label","Value":"_content/RazorPagesApp/RazorPagesApp.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"717"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tAxehUodPbjZk/zpgXKJQ1i1fRxvGwPep5rGWiuagX4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Nov 2025 09:41:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

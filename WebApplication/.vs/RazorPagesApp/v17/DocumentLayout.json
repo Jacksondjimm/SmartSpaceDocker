@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\kitchen.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\kitchen.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\kitchen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\kitchen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\hallway.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\hallway.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\hallway.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\hallway.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\hall.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\hall.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\hall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\hall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\childrens_room.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\childrens_room.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\childrens_room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\childrens_room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\bedroom.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\bedroom.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\bedroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\bedroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\models\\sensor_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\models\\sensor_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\models\\sensor_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\models\\sensor_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\models\\sensor_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\models\\sensor_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\models\\sensor_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\models\\sensor_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\models\\sensor_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\models\\sensor_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\pages\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\pages\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|g:\\works\\docker\\25_11_25_smart_pgdb_docker_ghrelease\\smartspace\\webapplication\\webapplication\\razorpagesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB5E472D-4DAF-412D-BC24-4BA20FD320C8}|WebApplication\\RazorPagesApp.csproj|solutionrelative:webapplication\\razorpagesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_F81PP1V/SmartSpaceDb4/True/SqlTable/dbo.SensorData_02.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_F81PP1V/SmartSpaceDb4/True/SqlTable/dbo.SensorData_01.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplication\\Dockerfile",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Dockerfile",
+              "RelativeToolTip": "WebApplication\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T09:55:11.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Program.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Program.cs",
+              "RelativeToolTip": "WebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-25T09:43:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-25T10:14:53.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-26T04:03:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication\\appsettings.json",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\appsettings.json",
+              "RelativeToolTip": "WebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T04:18:25.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kitchen.cshtml.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\kitchen.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\kitchen.cshtml.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\kitchen.cshtml.cs",
+              "RelativeToolTip": "WebApplication\\Pages\\kitchen.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kitchen.cshtml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\kitchen.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\kitchen.cshtml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\kitchen.cshtml",
+              "RelativeToolTip": "WebApplication\\Pages\\kitchen.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T04:18:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAMwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\Index.cshtml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T04:18:24.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "hall.cshtml.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hall.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\hall.cshtml.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hall.cshtml.cs",
+              "RelativeToolTip": "WebApplication\\Pages\\hall.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "hall.cshtml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hall.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\hall.cshtml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hall.cshtml",
+              "RelativeToolTip": "WebApplication\\Pages\\hall.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T04:18:25.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "childrens_room.cshtml.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\childrens_room.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\childrens_room.cshtml.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\childrens_room.cshtml.cs",
+              "RelativeToolTip": "WebApplication\\Pages\\childrens_room.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "childrens_room.cshtml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\childrens_room.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\childrens_room.cshtml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\childrens_room.cshtml",
+              "RelativeToolTip": "WebApplication\\Pages\\childrens_room.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T04:18:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "hallway.cshtml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hallway.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\hallway.cshtml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hallway.cshtml",
+              "RelativeToolTip": "WebApplication\\Pages\\hallway.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T04:18:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hallway.cshtml.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hallway.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\hallway.cshtml.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\hallway.cshtml.cs",
+              "RelativeToolTip": "WebApplication\\Pages\\hallway.cshtml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bedroom.cshtml.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\bedroom.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\bedroom.cshtml.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\bedroom.cshtml.cs",
+              "RelativeToolTip": "WebApplication\\Pages\\bedroom.cshtml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bedroom.cshtml",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\bedroom.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\bedroom.cshtml",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\bedroom.cshtml",
+              "RelativeToolTip": "WebApplication\\Pages\\bedroom.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T04:18:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\User.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:24.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sensor_05.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_05.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Sensor_05.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_05.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Sensor_05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sensor_04.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_04.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Sensor_04.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_04.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Sensor_04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sensor_03.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_03.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Sensor_03.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_03.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Sensor_03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sensor_02.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_02.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Sensor_02.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_02.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Sensor_02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sensor_01.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_01.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Sensor_01.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\Sensor_01.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Sensor_01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\ApplicationContext.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "WebApplication\\Models\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Data\\DbInitializer.cs",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WebApplication\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:17:50.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.css",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\Index.cshtml.css",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\Index.cshtml.css",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\Pages\\Index.cshtml.css",
+              "RelativeToolTip": "WebApplication\\Pages\\Index.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-13T04:18:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RazorPagesApp.csproj",
+              "DocumentMoniker": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\RazorPagesApp.csproj",
+              "RelativeDocumentMoniker": "WebApplication\\RazorPagesApp.csproj",
+              "ToolTip": "G:\\Works\\Docker\\25_11_25_Smart_PGDB_docker_GHrelease\\SmartSpace\\WebApplication\\WebApplication\\RazorPagesApp.csproj",
+              "RelativeToolTip": "WebApplication\\RazorPagesApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T04:14:35.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.SensorData_01.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_F81PP1V/SmartSpaceDb4/True/SqlTable/dbo.SensorData_01.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_F81PP1V/SmartSpaceDb4/True/SqlTable/dbo.SensorData_01.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-25T03:01:08.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.SensorData_02.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_F81PP1V/SmartSpaceDb4/True/SqlTable/dbo.SensorData_02.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_F81PP1V/SmartSpaceDb4/True/SqlTable/dbo.SensorData_02.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-25T02:59:20.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

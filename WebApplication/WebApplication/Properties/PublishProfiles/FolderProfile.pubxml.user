@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>G:\Works\C#\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\WebApplication\publish</_PublishTargetUrl>
+    <History>True|2023-06-02T03:53:54.8888142Z;True|2023-06-01T06:39:45.5561888+03:00;True|2023-06-01T06:31:35.3701228+03:00;True|2023-06-01T06:21:35.7140020+03:00;True|2023-05-31T08:03:07.1024255+03:00;True|2023-05-31T07:59:46.3414864+03:00;True|2023-05-31T07:56:53.7654776+03:00;True|2023-05-31T07:27:28.2467675+03:00;True|2023-05-31T06:49:03.9848741+03:00;True|2023-05-31T06:35:13.5124383+03:00;True|2023-05-22T08:01:16.9857913+03:00;True|2023-05-22T07:19:46.6800844+03:00;True|2023-05-20T23:07:22.7981316+03:00;True|2023-05-20T20:07:48.6432722+03:00;True|2023-05-20T19:33:51.8945540+03:00;True|2023-05-20T19:16:58.6014313+03:00;True|2023-05-19T06:53:47.5043244+03:00;True|2023-05-19T05:41:50.7532177+03:00;True|2023-05-15T07:09:42.7918485+03:00;True|2023-05-15T06:47:54.8569179+03:00;True|2023-05-14T20:38:09.3347634+03:00;True|2023-05-14T20:21:33.4663764+03:00;True|2023-05-14T14:49:23.1507010+03:00;True|2023-05-09T18:17:42.5121999+03:00;True|2023-05-09T17:30:10.5031361+03:00;True|2023-05-09T13:20:17.8930261+03:00;True|2023-05-08T10:56:48.4715419+03:00;True|2023-05-05T06:22:31.5923413+03:00;True|2023-05-04T07:39:26.9457935+03:00;True|2023-05-04T07:37:21.7775231+03:00;True|2023-05-04T07:35:04.2452276+03:00;True|2023-05-04T07:09:41.9701639+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=localhost%3bDatabase=razorpagesdb2%3bTrusted_Connection=True%3b MultipleActiveResultSets=True%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="RazorPagesApp.Models.ApplicationContext">
+      <Value>Server=localhost%3bDatabase=SmartSpaceDb2%3bTrusted_Connection=True%3b MultipleActiveResultSets=True%3bTrustServerCertificate=True%3bIntegrated Security=SSPI</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>G:\Works\C#\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\WebApplication\publish</_PublishTargetUrl>
+    <History>True|2023-05-30T03:52:34.7739165Z;True|2023-05-27T15:21:54.0773967+03:00;False|2023-05-27T15:19:43.2154107+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=localhost%3bDatabase=SmartSpaceDb2%3bTrusted_Connection=True%3b MultipleActiveResultSets=True%3bTrustServerCertificate=True%3bIntegrated Security=SSPI</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="RazorPagesApp.Models.ApplicationContext">
+      <Value>Server=localhost%3bDatabase=SmartSpaceDb2%3bTrusted_Connection=True%3b MultipleActiveResultSets=True%3bTrustServerCertificate=True%3bIntegrated Security=SSPI</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

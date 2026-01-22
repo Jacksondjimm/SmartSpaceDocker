@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Works\\C#\\23_05_27 smart на IIS from homePC_manysens_manywin_with db_manytable\\WebApplication\\WebApplication\\obj\\Release\\net7.0\\win-x64\\scopedcss\\projectbundle\\RazorPagesApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorPagesApp.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.build.RazorPagesApp.props",
+      "PackagePath": "build\\RazorPagesApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.RazorPagesApp.props",
+      "PackagePath": "buildMultiTargeting\\RazorPagesApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.RazorPagesApp.props",
+      "PackagePath": "buildTransitive\\RazorPagesApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
