@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - G:\Works\Docker\25_11_25_Smart_PGDB_docker_GHrelease\SmartSpace\WebApplication\WebApplication:/app:rw
-      - G:\Works\Docker\25_11_25_Smart_PGDB_docker_GHrelease\SmartSpace\WebApplication:/src:rw
+      - G:\Works\Docker\26_03_29_Smart_PGDB_docker_keenetic_https_migration_debug\WebApplication\WebApplication:/app:rw
+      - G:\Works\Docker\26_03_29_Smart_PGDB_docker_keenetic_https_migration_debug\WebApplication:/src:rw
       - C:\Users\Jackson\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\Jackson\.nuget\packages:/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro

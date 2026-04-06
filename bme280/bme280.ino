@@ -15,9 +15,9 @@ Adafruit_BME280 bme;
 const char* ssid = "Name";                   // Название WIFI сети
 const char* password = "your password";                // Пароль от WIFI сети
 
-//const char* host = "192.168.0.110";       // Локальный адрес - читается с#
-const char* host = "88.201.252.176";        // глобальный адрес - читается с#
-const uint16_t port = 80;                 // Порт
+const char* host = "192.168.0.110";       // Локальный адрес - читается с#
+//const char* host = "88.ZZZ.YYY.XXX";        // глобальный адрес - читается с#
+const uint16_t port = 5000;                 // Порт
 
 //float num = 11111; // для BME280 №01 your secret number
 float num = 22222; // для BME280 №02 your secret number

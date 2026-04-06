@@ -1,8 +1,8 @@
-name: dockercompose124806454444023437
+name: dockercompose342896922453503103
 services:
   razorpagesapp:
     build:
-      context: G:\Works\Docker\25_11_25_Smart_PGDB_docker_GHrelease\SmartSpace\WebApplication
+      context: G:\Works\Docker\26_03_29_Smart_PGDB_docker_keenetic_https_migration_debug\WebApplication
       dockerfile: WebApplication/Dockerfile
     container_name: razorpagesapp
     depends_on:
@@ -12,6 +12,7 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_HTTP_PORTS: "5000"
+      ConnectionStrings__Database: Host=razorpagesapp.database;Port=5432;Database=SmartSpaceDb;Username=postgres;Password=combust0201;Include Error Detail=true
       DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "false"
       TZ: Europe/Moscow
     image: razorpagesapp
@@ -39,8 +40,8 @@ services:
     container_name: razorpagesapp.database
     environment:
       POSTGRES_DB: SmartSpaceDb
-      POSTGRES_PASSWORD: YourPassword
-      POSTGRES_USER: YourLogin
+      POSTGRES_PASSWORD: combust0201
+      POSTGRES_USER: postgres
     image: postgres:17
     networks:
       default: null
@@ -51,10 +52,10 @@ services:
         protocol: tcp
     volumes:
       - type: bind
-        source: G:\Works\Docker\25_11_25_Smart_PGDB_docker_GHrelease\SmartSpace\WebApplication\.containers\razorpagesapp-db
+        source: G:\Works\Docker\26_03_29_Smart_PGDB_docker_keenetic_https_migration_debug\WebApplication\.containers\razorpagesapp-db
         target: /var/lib/postgresql/data
         bind:
           create_host_path: true
 networks:
   default:
-    name: dockercompose124806454444023437_default
+    name: dockercompose342896922453503103_default

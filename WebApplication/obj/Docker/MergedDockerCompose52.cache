@@ -10,6 +10,7 @@ services:
       labels:
         com.microsoft.created-by: visual-studio
         com.microsoft.visual-studio.project-name: RazorPagesApp
+      target: base
     container_name: razorpagesapp
     depends_on:
       razorpagesapp.database:
@@ -24,13 +25,15 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_HTTP_PORTS: "5000"
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
       ConnectionStrings__Database: Host=razorpagesapp.database;Port=5432;Database=SmartSpaceDb;Username=postgres;Password=combust0201;Include Error Detail=true
       DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "false"
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: /.nuget/fallbackpackages
       TZ: Europe/Moscow
-    image: razorpagesapp
+    image: razorpagesapp:dev
     labels:
-      com.microsoft.visual-studio.project-name: RazorPagesApp
-      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/RazorPagesApp.dll"'
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/bin/Debug/net9.0/RazorPagesApp.dll"'
       com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
       com.microsoft.visualstudio.debuggee.program: dotnet
       com.microsoft.visualstudio.debuggee.workingdirectory: /app
@@ -56,8 +59,30 @@ services:
         bind:
           create_host_path: true
       - type: bind
+        source: G:\Works\Docker\26_03_29_Smart_PGDB_docker_keenetic_https_migration_debug\WebApplication\WebApplication
+        target: /app
+        bind:
+          create_host_path: true
+      - type: bind
+        source: G:\Works\Docker\26_03_29_Smart_PGDB_docker_keenetic_https_migration_debug\WebApplication
+        target: /src
+        bind:
+          create_host_path: true
+      - type: bind
         source: C:\Users\Jackson\vsdbg\vs2017u5
         target: /remote_debugger
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Jackson\.nuget\packages
+        target: /.nuget/packages
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages
+        target: /.nuget/fallbackpackages
+        read_only: true
         bind:
           create_host_path: true
       - type: bind

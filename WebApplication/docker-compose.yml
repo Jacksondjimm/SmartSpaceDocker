@@ -2,7 +2,7 @@
 
 services:
   razorpagesapp:
-    image: ${DOCKER_REGISTRY-}razorpagesapp
+    image: razorpagesapp
     container_name: razorpagesapp
     build:
       context: .
@@ -13,8 +13,9 @@ services:
     depends_on:
       - razorpagesapp.database
     environment:
-      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_ENVIRONMENT=Production
       - TZ=Europe/Moscow
+      - ConnectionStrings__Database=Host=razorpagesapp.database;Port=5432;Database=SmartSpaceDb;Username=YourLogin;Password=YourPassword;Include Error Detail=true
       - DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
 
   razorpagesapp.database:
@@ -22,8 +23,8 @@ services:
     container_name: razorpagesapp.database
     environment:
       - POSTGRES_DB=SmartSpaceDb #usersdbSSP
-      - POSTGRES_USER=YourLogin
-      - POSTGRES_PASSWORD=YourPassword
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=combust0201
     volumes:
       - ./.containers/razorpagesapp-db:/var/lib/postgresql/data
     ports:
