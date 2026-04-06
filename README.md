@@ -16,3 +16,5 @@ Wi-fi датчики температуры размещены в разных �
 
 Ссылка на доступ к сайту:
 https://home.smartspace.netcraze.link/
+
+https теперь
