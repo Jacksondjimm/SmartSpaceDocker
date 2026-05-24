@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Works\\Docker\\26_04_05_Smart_PGDB_docker_keenetic_https_migration_debug\\WebApplication\\WebApplication\\RazorPagesApp.csproj": {}
+    "G:\\Works\\Docker\\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API_GHRelease\\SmartSpaceDocker\\WebApplication\\WebApplication\\RazorPagesApp.csproj": {}
   },
   "projects": {
-    "G:\\Works\\Docker\\26_04_05_Smart_PGDB_docker_keenetic_https_migration_debug\\WebApplication\\WebApplication\\RazorPagesApp.csproj": {
+    "G:\\Works\\Docker\\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API_GHRelease\\SmartSpaceDocker\\WebApplication\\WebApplication\\RazorPagesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Works\\Docker\\26_04_05_Smart_PGDB_docker_keenetic_https_migration_debug\\WebApplication\\WebApplication\\RazorPagesApp.csproj",
+        "projectUniqueName": "G:\\Works\\Docker\\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API_GHRelease\\SmartSpaceDocker\\WebApplication\\WebApplication\\RazorPagesApp.csproj",
         "projectName": "RazorPagesApp",
-        "projectPath": "G:\\Works\\Docker\\26_04_05_Smart_PGDB_docker_keenetic_https_migration_debug\\WebApplication\\WebApplication\\RazorPagesApp.csproj",
+        "projectPath": "G:\\Works\\Docker\\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API_GHRelease\\SmartSpaceDocker\\WebApplication\\WebApplication\\RazorPagesApp.csproj",
         "packagesPath": "C:\\Users\\Jackson\\.nuget\\packages\\",
-        "outputPath": "G:\\Works\\Docker\\26_04_05_Smart_PGDB_docker_keenetic_https_migration_debug\\WebApplication\\WebApplication\\obj\\",
+        "outputPath": "G:\\Works\\Docker\\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API_GHRelease\\SmartSpaceDocker\\WebApplication\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "FusionCharts.Visualization": {
+            "AspNetCore.HealthChecks.NpgSql": {
               "target": "Package",
-              "version": "[1.0.9, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

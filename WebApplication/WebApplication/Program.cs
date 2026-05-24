@@ -1,8 +1,8 @@
-using Microsoft.AspNetCore.HttpOverrides;//??? (для работы по http внутри сети и по https от роутера до клиента в интеренете)
+using Microsoft.AspNetCore.HttpOverrides;//для работы по http внутри сети и по https от роутера до клиента в интеренете
 using Microsoft.EntityFrameworkCore;
 using RazorPagesApp.Data;
 using RazorPagesApp.Models;// пространство имен класса ApplicationContext
-using System.Globalization; // Global Time
+using System.Globalization; // Global Time //для передачи точки вместо запятой  //https://metanit.com/sharp/tutorial/20.4.php
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +22,7 @@ builder.Services.Configure<ForwardedHeadersOptions>(options =>
 });
 // --- КОНЕЦ ИЗМЕНЕНИЙ 1 ---
 
-// Устанавливаем культуру для всего приложения
+// Устанавливаем культуру для всего приложения (для формата даты РФ)
 //var cultureInfo = new CultureInfo("ru-RU");
 var cultureInfo = new CultureInfo("en-US"); //"en-US" позволяет передавать точки вместо запятых в график библиотеки Fusion, который не понимает запятые.
 cultureInfo.DateTimeFormat.ShortDatePattern = "dd.MM.yyyy";
@@ -45,8 +45,25 @@ builder.Services.AddDbContext<ApplicationContext>(options =>
         npgsqlOptions.EnableRetryOnFailure(maxRetryCount: 5, maxRetryDelay: TimeSpan.FromSeconds(5), errorCodesToAdd: null);
     }));
 
+// добавляем CORS (Разрешаем Frontend-у обращаться к API) ---
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend", policy =>
+    {
+        // Позже сюда можно вписать конкретные адреса (например, http://localhost:8080, http://home.smartspace...)
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
+// добавляем HealthChecks (Проверка работоспособности) ---
+builder.Services.AddHealthChecks()
+    .AddNpgSql(connection, name: "database_check"); // Проверяет, жива ли БД
+
 // добавляем в приложение сервисы Razor Pages
 builder.Services.AddRazorPages();
+builder.Services.AddControllers();
 
 var app = builder.Build();
 
@@ -60,8 +77,14 @@ if (!app.Environment.IsDevelopment())
 }
 
 // Если ты хочешь, чтобы при заходе по http внутри сети тебя все равно перекидывало на https (не обязательно, но полезно)
-app.UseHttpsRedirection(); 
+app.UseHttpsRedirection();
 // --- КОНЕЦ ИЗМЕНЕНИЙ 2 ---
+
+// Применяем политику CORS
+app.UseCors("AllowFrontend");
+
+// Мапим эндпоинт для проверки здоровья
+app.MapHealthChecks("/health");
 
 // конструкция, позволяющая внедрить Postgre и DbInitializer:
 using (var scope = app.Services.CreateScope())
@@ -73,8 +96,8 @@ using (var scope = app.Services.CreateScope())
         var context = services.GetRequiredService<ApplicationContext>();
         AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true); // строчка для устранения исключения по timestamp при переходе на postgree
         AppContext.SetSwitch("Npgsql.DisableDateTimeInfinityConversions", true); // строчка для устранения исключения по timestamp при переходе на postgree
-                                                                                 //context.Database.EnsureDeleted();
-                                                                                 //context.Database.EnsureCreated(); //(без миграции БД)
+        //context.Database.EnsureDeleted();
+        //context.Database.EnsureCreated(); //(без миграции БД)
         context.Database.Migrate();  // После применения миграций можно наполнять базу стартовыми данными
         DbInitializer.Initialize(context);
     }
@@ -90,5 +113,8 @@ using (var scope = app.Services.CreateScope())
 
 // добавляем поддержку маршрутизации для Razor Pages
 app.MapRazorPages();
+app.MapControllers();
 
 app.Run();
+
+

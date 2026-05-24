@@ -1,0 +1,12 @@
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\RazorPagesApp.deps.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\RazorPagesApp.runtimeconfig.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\appsettings.Development.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\appsettings.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\RazorPagesApp.exe
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\RazorPagesApp.dll
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\bin\Debug\RazorPagesApp.pdb
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\obj\Debug\docker-c.35A3FFBA.Up2Date

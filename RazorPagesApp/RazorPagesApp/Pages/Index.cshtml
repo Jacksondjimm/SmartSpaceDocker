@@ -1,0 +1,73 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!-- начало таблицы-->
+<br>
+<caption><h3>Вывод информации с датчиков</h3></caption>
+<br>
+<table align=center width=700px class ="table table-hover">
+
+ <colgroup>
+    <col span="1">                         <!-- Фон первого столбца таблицы-->
+    <!--<col span="1" style="background:DarkSlateGrey">-->
+    <col span="7">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+    <!--<col span="7" style="background-color:DimGrey">-->
+ </colgroup>
+
+ <tr align=center>
+ <!--<tr align=center style="background:Purple; color: Aqua">-->
+    <th>Объект</th>
+    <th>ID</th>
+    <th>Температура &degС</th>
+    <th>Влажность %</th>
+    <th>Время</th>
+    <th>Дата</th>
+ </tr>
+ <tr align=center>
+        <td>Спальня</td>
+        <td>@Model.bme280_01.Id</td>
+        <td>@Model.bme280_01.temp</td>
+        <td>@Model.bme280_01.hum</td>
+        <td>@Model.bme280_01.date.TimeOfDay.ToString().Substring(0, 5)</td>
+        <td>@Model.bme280_01.date.Date.ToString().Substring(0, 10)</td>
+ </tr>
+ <tr align=center>
+        <td>Детская</td>
+        <td>@Model.bme280_02.Id</td>
+        <td>@Model.bme280_02.temp</td>
+        <td>@Model.bme280_02.hum</td>
+        <td>@Model.bme280_02.date.TimeOfDay.ToString().Substring(0, 5)</td>
+        <td>@Model.bme280_02.date.Date.ToString().Substring(0, 10)</td>
+ </tr>
+ <tr align=center>
+        <td>Зал</td>
+        <td>@Model.bme280_03.Id</td>
+        <td>@Model.bme280_03.temp</td>
+        <td>@Model.bme280_03.hum</td>
+        <td>@Model.bme280_03.date.TimeOfDay.ToString().Substring(0, 5)</td>
+        <td>@Model.bme280_03.date.Date.ToString().Substring(0, 10)</td>
+ </tr>
+ <tr align=center>
+        <td>Коридор</td>
+        <td>@Model.bme280_04.Id</td>
+        <td>@Model.bme280_04.temp</td>
+        <td>@Model.bme280_04.hum</td>
+        <td>@Model.bme280_04.date.TimeOfDay.ToString().Substring(0, 5)</td>
+        <td>@Model.bme280_04.date.Date.ToString().Substring(0, 10)</td>
+ </tr>
+ <tr align=center>
+        <td>Кухня</td>
+        <td>@Model.bme280_05.Id</td>
+        <td>@Model.bme280_05.temp</td>
+        <td>@Model.bme280_05.hum</td>
+        <td>@Model.bme280_05.date.TimeOfDay.ToString().Substring(0, 5)</td>
+        <td>@Model.bme280_05.date.Date.ToString().Substring(0, 10)</td>
+ </tr>
+</table>
+<br>
+<br>
+<br>
+<!-- конец таблицы-->

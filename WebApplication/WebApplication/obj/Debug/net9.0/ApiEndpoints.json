@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "ContainingType": "RazorPagesApp.Controllers.BedroomApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/Bedroom/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.BedroomApiController",
+    "Method": "GetLast",
+    "RelativePath": "api/Bedroom/GetLast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.Childrens_roomApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/Childrens_room/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.Childrens_roomApiController",
+    "Method": "GetLast",
+    "RelativePath": "api/Childrens_room/GetLast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.HallApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/Hall/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.HallApiController",
+    "Method": "GetLast",
+    "RelativePath": "api/Hall/GetLast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.HallwayApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/Hallway/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.HallwayApiController",
+    "Method": "GetLast",
+    "RelativePath": "api/Hallway/GetLast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.KitchenApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/Kitchen/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RazorPagesApp.Controllers.KitchenApiController",
+    "Method": "GetLast",
+    "RelativePath": "api/Kitchen/GetLast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

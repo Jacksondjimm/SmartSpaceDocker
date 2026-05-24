@@ -19,7 +19,7 @@ namespace RazorPagesApp.Data
             {
                 var sensorData01 = new Sensor_01[]
                 {
-                    new Sensor_01 { Name = "temp1", Age = 0, temp = 0, hum = 0, num = 11111, date = DateTimeOffset.Now }
+                    new Sensor_01 {temp = 0, hum = 0, num = 11111, date = DateTimeOffset.Now }
                 };
                 context.SensorData_01.AddRange(sensorData01);
                 context.SaveChanges();
@@ -29,7 +29,7 @@ namespace RazorPagesApp.Data
             {
                 var sensorData02 = new Sensor_02[]
                 {
-                    new Sensor_02 { Name = "temp2", Age = 0, temp = 0, hum = 0, num = 22222, date = DateTimeOffset.Now }
+                    new Sensor_02 { temp = 0, hum = 0, num = 22222, date = DateTimeOffset.Now }
                 };
                 context.SensorData_02.AddRange(sensorData02);
                 context.SaveChanges();
@@ -39,7 +39,7 @@ namespace RazorPagesApp.Data
             {
                 var sensorData03 = new Sensor_03[]
                 {
-                    new Sensor_03 { Name = "temp3", Age = 0, temp = 0, hum = 0, num = 33333, date = DateTimeOffset.Now }
+                    new Sensor_03 {temp = 0, hum = 0, num = 33333, date = DateTimeOffset.Now}
                 };
                 context.SensorData_03.AddRange(sensorData03);
                 context.SaveChanges();
@@ -49,7 +49,7 @@ namespace RazorPagesApp.Data
             {
                 var sensorData04 = new Sensor_04[]
                 {
-                    new Sensor_04 { Name = "temp4", Age = 0, temp = 0, hum = 0, num = 44444, date = DateTimeOffset.Now }
+                    new Sensor_04 {temp = 0, hum = 0, num = 44444, date = DateTimeOffset.Now}
                 };
                 context.SensorData_04.AddRange(sensorData04);
                 context.SaveChanges();
@@ -59,7 +59,7 @@ namespace RazorPagesApp.Data
             {
                 var sensorData05 = new Sensor_05[]
                 {
-                    new Sensor_05 { Name = "temp5", Age = 0, temp = 0, hum = 0, num = 55555, date = DateTimeOffset.Now }
+                    new Sensor_05 {temp = 0, hum = 0, num = 55555, date = DateTimeOffset.Now}
                 };
                 context.SensorData_05.AddRange(sensorData05);
                 context.SaveChanges();

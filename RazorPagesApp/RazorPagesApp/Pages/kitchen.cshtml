@@ -1,0 +1,140 @@
+﻿@page
+@model RazorPagesApp.Pages.kitchenModel
+@{
+    ViewData["Title"] = "kitchen";
+}
+
+<!-- Контейнер для графика (размер можно менять) -->
+<div style="width: 800px; margin: 0 auto;">
+    <canvas id="temperatureChart"></canvas>
+</div>
+
+<!-- Подключаем локальный файл библиотеки (никаких CDN, блокировок не будет) -->
+<script src="~/js/chart.umd.js"></script>
+
+<!-- Скрипт отрисовки графика -->
+<script>
+    // 1. Получаем данные из C# и сериализуем их в JSON прямо на странице
+    // Используем System.Text.Json для безопасной передачи
+    const sensorData = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.SensorData_05.OrderBy(x => x.date)));
+
+    // 2. Подготавливаем массивы для осей X (время) и Y (температура)
+    // Мы берем данные, отсортированные от старых к новым (чтобы график шел слева направо)
+    const labels = sensorData.map(d => {
+        const date = new Date(d.date);
+        // Форматируем время в "ЧЧ:ММ"
+        return date.toLocaleTimeString('ru-RU', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+    });
+
+    const temperatures = sensorData.map(d => d.temp);
+    const humidities = sensorData.map(d => d.hum); // Можно добавить и влажность!
+
+    // 3. Рисуем график
+    const ctx = document.getElementById('temperatureChart').getContext('2d');
+    new Chart(ctx, {
+        type: 'line', // Тип графика - линия
+        data: {
+            labels: labels, // Значения по оси X
+            datasets: [
+                {
+                    label: 'Температура (°C)',
+                    data: temperatures, // Значения по оси Y
+                    borderColor: 'rgb(255, 99, 132)', // Цвет линии (красноватый)
+                    backgroundColor: 'rgba(255, 99, 132, 0.2)', // Цвет заливки под линией
+                    tension: 0.4 // Сглаживание линии (0 - прямые углы)
+                },
+                {
+                    label: 'Влажность (%)',
+                    data: humidities,
+                    borderColor: 'rgb(54, 162, 235)', // Цвет линии (синеватый)
+                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                    tension: 0.4
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'График температуры и влажности (Кухня)'
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: false // Чтобы шкала начиналась от минимальной температуры, а не от нуля
+                }
+            }
+        }
+    });
+</script>
+<br>
+<br>
+
+<caption><h3>Вывод полной информации с датчика</h3></caption>
+
+<!-- НАЧАЛО: Блок пагинации -->
+@if (Model.TotalPages > 1)
+{
+    <nav aria-label="Навигация по страницам">
+        <ul class="pagination justify-content-center">
+
+            <!-- Кнопка "Первая" -->
+            <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                <a class="page-link" asp-page="./kitchen" asp-route-CurrentPage="1">Первая</a>
+            </li>
+
+            <!-- Кнопка "Назад" -->
+            <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                <a class="page-link" asp-page="./kitchen" asp-route-CurrentPage="@(Model.CurrentPage - 1)">Назад</a>
+            </li>
+
+            <!-- Индикатор текущей страницы -->
+            <li class="page-item disabled">
+                <span class="page-link text-dark">Страница @Model.CurrentPage из @Model.TotalPages</span>
+            </li>
+
+            <!-- Кнопка "Вперед" -->
+            <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+                <a class="page-link" asp-page="./kitchen" asp-route-CurrentPage="@(Model.CurrentPage + 1)">Вперед</a>
+            </li>
+
+            <!-- Кнопка "Последняя" -->
+            <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+                <a class="page-link" asp-page="./kitchen" asp-route-CurrentPage="@Model.TotalPages">Последняя</a>
+            </li>
+
+        </ul>
+    </nav>
+}
+<!-- КОНЕЦ: Блок пагинации -->
+
+<!-- начало таблицы-->
+<table align=center width=500px class="table table-hover">
+    <!-- Добавил классы Bootstrap для красоты таблицы -->
+    <colgroup>
+        <col span="1">
+        <col span="6">
+    </colgroup>
+
+    <tr align=center>
+        <th>ID</th>
+        <th>Температура &degС</th>
+        <th>Влажность %</th>
+        <th>Время</th>
+        <th>Дата</th>
+    </tr>
+    <!-- СОРТИРОВКУ УБРАЛИ ОТСЮДА, ТАК КАК ТЕПЕРЬ ОНА В C# КОДЕ -->
+    @foreach (var Sensor in Model.SensorData_05)
+    {
+        <tr align=center>
+            <td>@Sensor.Id</td>
+            <td>@Sensor.temp</td>
+            <td>@Sensor.hum</td>
+            <td>@Sensor.date.TimeOfDay.ToString().Substring(0, 5)</td>
+            <td>@Sensor.date.Date.ToString().Substring(0, 10)</td>
+        </tr>
+    }
+</table>
+<br>
+<!-- конец таблицы-->

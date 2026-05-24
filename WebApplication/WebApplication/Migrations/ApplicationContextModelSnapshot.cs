@@ -30,12 +30,6 @@ namespace RazorPagesApp.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("Age")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("text");
-
                     b.Property<DateTimeOffset>("date")
                         .HasColumnType("timestamp with time zone");
 
@@ -60,12 +54,6 @@ namespace RazorPagesApp.Migrations
                         .HasColumnType("integer");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("Age")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("text");
 
                     b.Property<DateTimeOffset>("date")
                         .HasColumnType("timestamp with time zone");
@@ -92,12 +80,6 @@ namespace RazorPagesApp.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("Age")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("text");
-
                     b.Property<DateTimeOffset>("date")
                         .HasColumnType("timestamp with time zone");
 
@@ -123,12 +105,6 @@ namespace RazorPagesApp.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("Age")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("text");
-
                     b.Property<DateTimeOffset>("date")
                         .HasColumnType("timestamp with time zone");
 
@@ -153,12 +129,6 @@ namespace RazorPagesApp.Migrations
                         .HasColumnType("integer");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("Age")
-                        .HasColumnType("integer");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("text");
 
                     b.Property<DateTimeOffset>("date")
                         .HasColumnType("timestamp with time zone");
@@ -193,15 +163,6 @@ namespace RazorPagesApp.Migrations
 
                     b.Property<DateTimeOffset>("date")
                         .HasColumnType("timestamp with time zone");
-
-                    b.Property<float>("hum")
-                        .HasColumnType("real");
-
-                    b.Property<float>("num")
-                        .HasColumnType("real");
-
-                    b.Property<float>("temp")
-                        .HasColumnType("real");
 
                     b.HasKey("Id");
 

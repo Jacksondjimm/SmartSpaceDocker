@@ -89,3 +89,4 @@ G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\bin\Debug\RazorPagesAp
 G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 G:\Works\Docker\25_11_25_Smart_PGDB_docker\WebApplication\obj\Debug\docker-c.35A3FFBA.Up2Date
 G:\Works\Docker\26_03_10_Smart_PGDB_docker_keenetic_https_migration\WebApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+G:\Works\Docker\26_04_29_Smart_PGDB_docker_keenetic_https_migration_debug_API\WebApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

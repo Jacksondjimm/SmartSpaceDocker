@@ -9,7 +9,7 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 USER $APP_UID
 WORKDIR /app
-EXPOSE 5000
+EXPOSE 8080
 #EXPOSE 5001
 
 

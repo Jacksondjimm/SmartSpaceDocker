@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GlRLhJ6g1hw=",
+  "success": true,
+  "projectFilePath": "G:\\Works\\Docker\\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API_GHRelease\\SmartSpaceDocker\\RazorPagesApp\\RazorPagesApp\\RazorPagesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.10\\microsoft.windowsdesktop.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.10\\microsoft.netcore.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.10\\microsoft.aspnetcore.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.10\\microsoft.netcore.app.host.win-x64.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

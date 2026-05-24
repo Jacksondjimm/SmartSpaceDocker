@@ -18,8 +18,6 @@ namespace RazorPagesApp.Pages
         public float temp_ = 0;
         public float hum_ = 0;
         public float num_ = 0;
-        public string? name3 = ""; // for test only. delete in future. 
-        public string? name25 = ""; // for test only. delete in future. 
         string? querystring = "";
         string searchTemp = "temp=";
         public int iSearch_01 = 0;
@@ -52,7 +50,6 @@ namespace RazorPagesApp.Pages
                         temp_ = float.Parse(Request.Query["temp"], formatter);// дл€ передачи точки вместо зап€той  //https://metanit.com/sharp/tutorial/20.4.php
                         hum_ = float.Parse(Request.Query["hum"], formatter);
                         num_ = float.Parse(Request.Query["num"], formatter);
-                        name25 = querystring;// for test only. delete in future.
                         
                         switch (num_)
                         {
@@ -60,12 +57,9 @@ namespace RazorPagesApp.Pages
                                 DateTimeOffset dateSearch_01 = DateTimeOffset.Now;
                                 if (SensorData_01.Count < dbCountString) 
                                 {
-                                 //temp1 = float.Parse(temp, formatter);// дл€ передачи точки вместо зап€той  //https://metanit.com/sharp/tutorial/20.4.php
                                  bme280_01.temp = temp_;
                                  bme280_01.hum = hum_;
                                  bme280_01.num = num_;
-                                 bme280_01.Name = name25;// for test only. delete in future.
-                                 bme280_01.Age = SensorData_01.Count;// for test only. delete in future. 
                                  bme280_01.date = DateTimeOffset.Now;
                                  context.SensorData_01.Add(bme280_01);
                                 }
@@ -86,12 +80,8 @@ namespace RazorPagesApp.Pages
                                  bme280_01S.temp = temp_;
                                  bme280_01S.hum = hum_;
                                  bme280_01S.num = num_;
-                                 bme280_01S.Name = name25;// for test only. delete in future.
-                                 bme280_01S.Age = SensorData_01.Count;// for test only. delete in future. 
                                  bme280_01S.date = DateTimeOffset.Now;
                                  context.Update(bme280_01S); // –ј«ќЅ–ј“№—я ¬ Ё“ќћ ќѕ≈–ј“ќ–≈: https://metanit.com/sharp/efcore/1.4.php
-
-                                 //bme280_01test = SensorData_01[0];
                                  //context.SensorData_01.Add(bme280_01test);// добавление работает
                                  //context.SensorData_01.Remove(SensorData_01[0]);// удаление работает
                                  // await context.SaveChangesAsync();                            
@@ -106,8 +96,6 @@ namespace RazorPagesApp.Pages
                                bme280_02.temp = temp_;
                                bme280_02.hum = hum_;
                                bme280_02.num = num_;
-                               bme280_02.Name = name25;// for test only. delete in future.
-                               bme280_02.Age = SensorData_02.Count;// for test only. delete in future.
                                bme280_02.date = DateTimeOffset.Now;
                                context.SensorData_02.Add(bme280_02);
 
@@ -126,8 +114,6 @@ namespace RazorPagesApp.Pages
                                 bme280_02S.temp = temp_;
                                 bme280_02S.hum = hum_;
                                 bme280_02S.num = num_;
-                                bme280_02S.Name = name25;// for test only. delete in future.
-                                bme280_02S.Age = SensorData_02.Count;// for test only. delete in future. 
                                 bme280_02S.date = DateTimeOffset.Now;
                                 context.Update(bme280_02S); 
                             }
@@ -141,8 +127,6 @@ namespace RazorPagesApp.Pages
                                bme280_03.temp = temp_;
                                bme280_03.hum = hum_;
                                bme280_03.num = num_;
-                               bme280_03.Name = name25;// for test only. delete in future.
-                               bme280_03.Age = SensorData_03.Count;// for test only. delete in future.
                                bme280_03.date = DateTimeOffset.Now;
                                context.SensorData_03.Add(bme280_03);
                             }
@@ -160,8 +144,6 @@ namespace RazorPagesApp.Pages
                                 bme280_03S.temp = temp_;
                                 bme280_03S.hum = hum_;
                                 bme280_03S.num = num_;
-                                bme280_03S.Name = name25;// for test only. delete in future.
-                                bme280_03S.Age = SensorData_03.Count;// for test only. delete in future. 
                                 bme280_03S.date = DateTimeOffset.Now;
                                 context.Update(bme280_03S); 
                             }
@@ -175,8 +157,6 @@ namespace RazorPagesApp.Pages
                                bme280_04.temp = temp_;
                                bme280_04.hum = hum_;
                                bme280_04.num = num_;
-                               bme280_04.Name = name25;// for test only. delete in future.
-                               bme280_04.Age = SensorData_04.Count;// for test only. delete in future.
                                bme280_04.date = DateTimeOffset.Now;
                                context.SensorData_04.Add(bme280_04);
                             }
@@ -194,8 +174,6 @@ namespace RazorPagesApp.Pages
                                 bme280_04S.temp = temp_;
                                 bme280_04S.hum = hum_;
                                 bme280_04S.num = num_;
-                                bme280_04S.Name = name25;// for test only. delete in future.
-                                bme280_04S.Age = SensorData_04.Count;// for test only. delete in future. 
                                 bme280_04S.date = DateTimeOffset.Now;
                                 context.Update(bme280_04S); 
                             }
@@ -209,8 +187,6 @@ namespace RazorPagesApp.Pages
                                bme280_05.temp = temp_;
                                bme280_05.hum = hum_;
                                bme280_05.num = num_;
-                               bme280_05.Name = name25;// for test only. delete in future.
-                               bme280_05.Age = SensorData_04.Count;// for test only. delete in future.
                                bme280_05.date = DateTimeOffset.Now;
                                context.SensorData_05.Add(bme280_05);
                             }
@@ -228,8 +204,6 @@ namespace RazorPagesApp.Pages
                                 bme280_05S.temp = temp_;
                                 bme280_05S.hum = hum_;
                                 bme280_05S.num = num_;
-                                bme280_05S.Name = name25;// for test only. delete in future.
-                                bme280_05S.Age = SensorData_04.Count;// for test only. delete in future. 
                                 bme280_05S.date = DateTimeOffset.Now;
                                 context.Update(bme280_05S); 
                             }
@@ -245,7 +219,6 @@ namespace RazorPagesApp.Pages
         public string PrintTime() => DateTimeOffset.Now.ToString();
 
         public Sensor_01 bme280_01 { get; set; } = new();//поле дл€ записи с датчиков в базу данных
-        //public Sensor_01 bme280_01test { get; set; } = new();//поле дл€ записи с датчиков в базу данных
         public Sensor_02 bme280_02 { get; set; } = new();//поле дл€ записи с датчиков в базу данных
         public Sensor_03 bme280_03 { get; set; } = new();//поле дл€ записи с датчиков в базу данных
         public Sensor_04 bme280_04 { get; set; } = new();//поле дл€ записи с датчиков в базу данных
@@ -255,7 +228,6 @@ namespace RazorPagesApp.Pages
         
         ApplicationContext context;
         public List<Sensor_01> SensorData_01 { get; private set; } = new();
-        //public List<Sensor_01> SensorData { get; set; } = new(); // for test only
         public List<Sensor_02> SensorData_02 { get; private set; } = new();
         public List<Sensor_03> SensorData_03 { get; private set; } = new();
         public List<Sensor_04> SensorData_04 { get; private set; } = new();
@@ -267,93 +239,7 @@ namespace RazorPagesApp.Pages
             context = db;
         }
 
-		public async Task<IActionResult> OnPostDeleteAsync(int id)
-        {
-            var bme280 = await context.SensorData_01.FindAsync(id); 
-            if (bme280 != null) 
-            { 
-                context.SensorData_01.Remove(bme280);
-                await context.SaveChangesAsync();   
-            }
-            return RedirectToPage();
-        }
         //подключение базы данных - 2конец
-
-        public int iMaxSearch(List<Sensor_01> SensorData) //может в cshtml можно сделать сортировку проще?
-        {
-            int iSearchMax = 0;
-            DateTimeOffset? dateMaxSearch = SensorData[0].date;
-            for (int i = 0; i < (SensorData.Count); i++)
-            {
-                if (SensorData[i].date > dateMaxSearch)
-                {
-                    dateMaxSearch = SensorData[i].date;
-                    iSearchMax = i;
-                }
-            }
-            return iSearchMax;
-
-        }
-        public int iMaxSearch(List<Sensor_02> SensorData) //перегрузка дл€ List<Sensor_02>
-        {
-            int iSearchMax = 0;
-            DateTimeOffset? dateMaxSearch = SensorData[0].date;
-            for (int i = 0; i < (SensorData.Count); i++)
-            {
-                if (SensorData[i].date > dateMaxSearch)
-                {
-                    dateMaxSearch = SensorData[i].date;
-                    iSearchMax = i;
-                }
-            }
-            return iSearchMax;
-
-        }
-        public int iMaxSearch(List<Sensor_03> SensorData) //перегрузка дл€ List<Sensor_03>
-        {
-            int iSearchMax = 0;
-            DateTimeOffset? dateMaxSearch = SensorData[0].date;
-            for (int i = 0; i < (SensorData.Count); i++)
-            {
-                if (SensorData[i].date > dateMaxSearch)
-                {
-                    dateMaxSearch = SensorData[i].date;
-                    iSearchMax = i;
-                }
-            }
-            return iSearchMax;
-
-        }
-        public int iMaxSearch(List<Sensor_04> SensorData) //перегрузка дл€ List<Sensor_04>
-        {
-            int iSearchMax = 0;
-            DateTimeOffset? dateMaxSearch = SensorData[0].date;
-            for (int i = 0; i < (SensorData.Count); i++)
-            {
-                if (SensorData[i].date > dateMaxSearch)
-                {
-                    dateMaxSearch = SensorData[i].date;
-                    iSearchMax = i;
-                }
-            }
-            return iSearchMax;
-
-        }
-        public int iMaxSearch(List<Sensor_05> SensorData) //перегрузка дл€ List<Sensor_05>
-        {
-            int iSearchMax = 0;
-            DateTimeOffset? dateMaxSearch = SensorData[0].date;
-            for (int i = 0; i < (SensorData.Count); i++)
-            {
-                if (SensorData[i].date > dateMaxSearch)
-                {
-                    dateMaxSearch = SensorData[i].date;
-                    iSearchMax = i;
-                }
-            }
-            return iSearchMax;
-
-        }
 
 
     }

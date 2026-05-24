@@ -1,0 +1,890 @@
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6kahdr45nz-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kodtyf0o85-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\891j2h30vv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\00w21mn9p5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\17ixk4za1x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k5xsak8poy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nybwtmj728-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mirajcuucd-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxqqdb2rw7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\c1zny257q9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qffkdjsekf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cf3kbq6laf-{0}-ub07r2b239-ub07r2b239.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kr609q7usl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dfgd3y3r9r-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\m3ut6a9lpw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dkww57kqyp-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2xqw48ubej-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fbad0msyo6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6y5dzhsyjx-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mzvyncv9aw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ro7vt75z7u-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rlujrjvoo3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ft41p76lii-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wf4xt878yy-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qeopbi0vhs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gia1g4vka3-{0}-06098lyss8-06098lyss8.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kge53jnwg8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\81xv885f7z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d8t1oxq5xd-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g2naz8w2jl-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\q5td0f2yi4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\p8c22fcpim-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mjn6r2mdae-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cevsmb1sf4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\oyyhsbqkz5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0skcrrdol2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\15d2r9zbyt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5ztyybk93t-{0}-493y06b0oq-493y06b0oq.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d653hwd13e-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6ml3rrs7jn-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ka8uqt3smf-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wx6ahclvbw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ltqgd24luu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\v7t1o1tcvl-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t4v4x5ox44-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cxbd81o6c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ljto9dyris-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\artontfwsu-{0}-47otxtyo56-47otxtyo56.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\elyl6d5m3b-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\uuletnjlxr-{0}-356vix0kms-356vix0kms.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\n45ezhmvc5-{0}-83jwlth58m-83jwlth58m.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cg07gda1uh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\td541pq8xq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxlqbzw3bh-{0}-ag7o75518u-ag7o75518u.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dio3znbpab-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gye1lmi0ms-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\czjkfplh2n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g0c9wf2ry4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\tte49jd9yp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fmm7fcoukh-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j04ddcaokw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hl7bzqf0xn-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fywz83z1o6-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mq3aoh37pg-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\swae.build.ex.cache
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\26_05_01 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6kahdr45nz-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kodtyf0o85-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\891j2h30vv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\00w21mn9p5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\17ixk4za1x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k5xsak8poy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nybwtmj728-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mirajcuucd-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxqqdb2rw7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\c1zny257q9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qffkdjsekf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cf3kbq6laf-{0}-ub07r2b239-ub07r2b239.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kr609q7usl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dfgd3y3r9r-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\m3ut6a9lpw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dkww57kqyp-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2xqw48ubej-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fbad0msyo6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6y5dzhsyjx-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mzvyncv9aw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ro7vt75z7u-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rlujrjvoo3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ft41p76lii-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wf4xt878yy-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qeopbi0vhs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gia1g4vka3-{0}-06098lyss8-06098lyss8.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kge53jnwg8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\81xv885f7z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d8t1oxq5xd-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g2naz8w2jl-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\q5td0f2yi4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\p8c22fcpim-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mjn6r2mdae-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cevsmb1sf4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\oyyhsbqkz5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0skcrrdol2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\15d2r9zbyt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5ztyybk93t-{0}-493y06b0oq-493y06b0oq.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d653hwd13e-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6ml3rrs7jn-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ka8uqt3smf-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wx6ahclvbw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ltqgd24luu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\v7t1o1tcvl-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t4v4x5ox44-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cxbd81o6c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ljto9dyris-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\artontfwsu-{0}-47otxtyo56-47otxtyo56.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\elyl6d5m3b-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\uuletnjlxr-{0}-356vix0kms-356vix0kms.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\n45ezhmvc5-{0}-83jwlth58m-83jwlth58m.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cg07gda1uh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\td541pq8xq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxlqbzw3bh-{0}-ag7o75518u-ag7o75518u.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dio3znbpab-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gye1lmi0ms-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\czjkfplh2n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g0c9wf2ry4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\tte49jd9yp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fmm7fcoukh-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j04ddcaokw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hl7bzqf0xn-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fywz83z1o6-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mq3aoh37pg-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\swae.build.ex.cache
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\glb96udbhz-b9sayid5wm.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wi385kdujb-61n19gt1b8.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ccsxkqw2yf-xtxxf3hu2r.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kc6v15mv2f-bqjiyaj88i.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\yl9cgzxwz2-c2jlpeoesf.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g3nktnqyhy-erw9l3u2r3.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\8kxzynjm3e-aexeepp0ev.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\jescm6oy5j-d7shbmvgxk.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\xzatbhx0hh-ausgxo2sd3.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9xkvz3e52v-k8d9w2qqmf.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\19rkcvapt8-cosvhxvwiu.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\u33kc8kl37-ub07r2b239.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\4n15ctghfb-fvhpjtyr6v.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rwho1kgvub-b7pk76d08c.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\r6m6q43780-fsbi9cje9m.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wjtgi1rh0p-rzd6atqjts.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\guep4g5a70-ee0r1s7dh0.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\7roulepazy-dxx9fxp4il.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dtchs9i965-jd9uben2k1.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\1nlmtatdjq-khv3u5hwcm.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\bt02st65u6-r4e9w2rdcm.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3kr5eopnu7-lcd1t2u6c8.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kpk2krikw7-c2oey78nd0.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2y7mf9gmcn-tdbxkamptv.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\lqofhorse2-j5mq2jizvt.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\euybgbc5yz-06098lyss8.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\4apyuojunx-nvvlpmu67g.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\26ayphpiuy-s35ty4nyc5.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rduaul0yzf-pj5nd1wqec.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\7839lk8gr7-46ein0sx1k.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nilr8f00dq-v0zj4ognzu.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\h4n493zetj-37tfw0ft22.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\w0bivlithv-hrwsygsryq.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\e6vzxa4ciz-pk9g2wxc8p.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\we0zignsrn-ft3s53vfgj.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3dm0arqe1c-6cfz1n2cew.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\yut541bz0r-6pdc2jztkx.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\jk0s5fi0pw-493y06b0oq.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5gkzvw2g92-iovd86k7lj.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\zyu322bt9v-vr1egmr9el.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2kck56oszy-kbrnm935zg.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hn7q0u4xro-jj8uyg4cgr.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t9c5xfh2tf-y7v9cxd14o.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\agjctq3y5f-notf2xhcfb.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\1mxusf8v7y-h1s4sie4z3.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\pfg76lvk87-63fj8s7r0e.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rplkpx3bvm-0j3bgjxly4.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\67yyvsqwxx-47otxtyo56.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ybmuo5c5w9-4v8eqarkd7.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\xk8pzu3eps-356vix0kms.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cubi4xqqt-83jwlth58m.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\4iqzpu0i8c-mrlpezrjn3.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nj9kwb401f-lzl9nlhx6b.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0pdo45iwsy-ag7o75518u.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\z9wv4xozj0-x0q3zqp4vz.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9nwdpecjn2-0i3buxo5is.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\82lk2gx3cc-o1o13a6vjx.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\eua1ny6d2z-ttgo8qnofa.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\u1u67utz9x-2z0ns9nrw6.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\bhygl5wg3q-muycvpuwrr.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2g090u22ue-87fc7y1x7t.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\zj6ilmpb3m-mlv21k5csn.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j6gnrchdmh-4dq87kgfc3.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k43sxwj25v-4dq87kgfc3.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.build.RazorPagesApp.props
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+G:\Works\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9bucq5t73f-{0}-073ns27sys-073ns27sys.gz
+D:\Мартынов полезное\Work\C#\26_05_11 smart FE RazorPages\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d7zi7cn6xw-073ns27sys.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6kahdr45nz-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kodtyf0o85-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9bucq5t73f-{0}-073ns27sys-073ns27sys.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\891j2h30vv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\00w21mn9p5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\17ixk4za1x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k5xsak8poy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nybwtmj728-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mirajcuucd-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxqqdb2rw7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\c1zny257q9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qffkdjsekf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cf3kbq6laf-{0}-ub07r2b239-ub07r2b239.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kr609q7usl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dfgd3y3r9r-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\m3ut6a9lpw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dkww57kqyp-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2xqw48ubej-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fbad0msyo6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6y5dzhsyjx-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mzvyncv9aw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ro7vt75z7u-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rlujrjvoo3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ft41p76lii-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wf4xt878yy-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qeopbi0vhs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gia1g4vka3-{0}-06098lyss8-06098lyss8.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kge53jnwg8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\81xv885f7z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d8t1oxq5xd-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g2naz8w2jl-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\q5td0f2yi4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\p8c22fcpim-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mjn6r2mdae-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cevsmb1sf4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\oyyhsbqkz5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0skcrrdol2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\15d2r9zbyt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5ztyybk93t-{0}-493y06b0oq-493y06b0oq.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d653hwd13e-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6ml3rrs7jn-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ka8uqt3smf-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wx6ahclvbw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ltqgd24luu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\v7t1o1tcvl-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t4v4x5ox44-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cxbd81o6c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ljto9dyris-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\artontfwsu-{0}-47otxtyo56-47otxtyo56.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\elyl6d5m3b-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\uuletnjlxr-{0}-356vix0kms-356vix0kms.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\n45ezhmvc5-{0}-83jwlth58m-83jwlth58m.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cg07gda1uh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\td541pq8xq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxlqbzw3bh-{0}-ag7o75518u-ag7o75518u.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dio3znbpab-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gye1lmi0ms-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\czjkfplh2n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g0c9wf2ry4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\tte49jd9yp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fmm7fcoukh-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j04ddcaokw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hl7bzqf0xn-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fywz83z1o6-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mq3aoh37pg-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\swae.build.ex.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\Docker\26_05_15_smart_FE_RazorPages_docker\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6kahdr45nz-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kodtyf0o85-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9bucq5t73f-{0}-073ns27sys-073ns27sys.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\891j2h30vv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\00w21mn9p5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\17ixk4za1x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k5xsak8poy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nybwtmj728-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mirajcuucd-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxqqdb2rw7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\c1zny257q9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qffkdjsekf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cf3kbq6laf-{0}-ub07r2b239-ub07r2b239.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kr609q7usl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dfgd3y3r9r-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\m3ut6a9lpw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dkww57kqyp-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2xqw48ubej-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fbad0msyo6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6y5dzhsyjx-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mzvyncv9aw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ro7vt75z7u-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rlujrjvoo3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ft41p76lii-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wf4xt878yy-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qeopbi0vhs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gia1g4vka3-{0}-06098lyss8-06098lyss8.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kge53jnwg8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\81xv885f7z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d8t1oxq5xd-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g2naz8w2jl-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\q5td0f2yi4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\p8c22fcpim-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mjn6r2mdae-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cevsmb1sf4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\oyyhsbqkz5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0skcrrdol2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\15d2r9zbyt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5ztyybk93t-{0}-493y06b0oq-493y06b0oq.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d653hwd13e-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6ml3rrs7jn-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ka8uqt3smf-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wx6ahclvbw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ltqgd24luu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\v7t1o1tcvl-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t4v4x5ox44-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cxbd81o6c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ljto9dyris-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\artontfwsu-{0}-47otxtyo56-47otxtyo56.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\elyl6d5m3b-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\uuletnjlxr-{0}-356vix0kms-356vix0kms.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\n45ezhmvc5-{0}-83jwlth58m-83jwlth58m.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cg07gda1uh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\td541pq8xq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxlqbzw3bh-{0}-ag7o75518u-ag7o75518u.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dio3znbpab-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gye1lmi0ms-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\czjkfplh2n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g0c9wf2ry4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\tte49jd9yp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fmm7fcoukh-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j04ddcaokw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hl7bzqf0xn-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fywz83z1o6-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mq3aoh37pg-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\swae.build.ex.cache
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\Docker\26_05_17_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6kahdr45nz-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kodtyf0o85-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9bucq5t73f-{0}-073ns27sys-073ns27sys.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\891j2h30vv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\00w21mn9p5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\17ixk4za1x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k5xsak8poy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nybwtmj728-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mirajcuucd-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxqqdb2rw7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\c1zny257q9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qffkdjsekf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cf3kbq6laf-{0}-ub07r2b239-ub07r2b239.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kr609q7usl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dfgd3y3r9r-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\m3ut6a9lpw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dkww57kqyp-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2xqw48ubej-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fbad0msyo6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6y5dzhsyjx-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mzvyncv9aw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ro7vt75z7u-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rlujrjvoo3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ft41p76lii-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wf4xt878yy-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qeopbi0vhs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gia1g4vka3-{0}-06098lyss8-06098lyss8.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kge53jnwg8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\81xv885f7z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d8t1oxq5xd-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g2naz8w2jl-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\q5td0f2yi4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\p8c22fcpim-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mjn6r2mdae-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cevsmb1sf4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\oyyhsbqkz5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0skcrrdol2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\15d2r9zbyt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5ztyybk93t-{0}-493y06b0oq-493y06b0oq.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d653hwd13e-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6ml3rrs7jn-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ka8uqt3smf-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wx6ahclvbw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ltqgd24luu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\v7t1o1tcvl-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t4v4x5ox44-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cxbd81o6c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ljto9dyris-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\artontfwsu-{0}-47otxtyo56-47otxtyo56.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\elyl6d5m3b-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\uuletnjlxr-{0}-356vix0kms-356vix0kms.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\n45ezhmvc5-{0}-83jwlth58m-83jwlth58m.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cg07gda1uh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\td541pq8xq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxlqbzw3bh-{0}-ag7o75518u-ag7o75518u.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dio3znbpab-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gye1lmi0ms-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\czjkfplh2n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g0c9wf2ry4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\tte49jd9yp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fmm7fcoukh-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j04ddcaokw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hl7bzqf0xn-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fywz83z1o6-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mq3aoh37pg-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\swae.build.ex.cache
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\Docker\26_05_19_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\glb96udbhz-b9sayid5wm.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wi385kdujb-61n19gt1b8.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d7zi7cn6xw-073ns27sys.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ccsxkqw2yf-xtxxf3hu2r.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kc6v15mv2f-bqjiyaj88i.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\yl9cgzxwz2-c2jlpeoesf.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g3nktnqyhy-erw9l3u2r3.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\8kxzynjm3e-aexeepp0ev.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\jescm6oy5j-d7shbmvgxk.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\xzatbhx0hh-ausgxo2sd3.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9xkvz3e52v-k8d9w2qqmf.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\19rkcvapt8-cosvhxvwiu.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\u33kc8kl37-ub07r2b239.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\4n15ctghfb-fvhpjtyr6v.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rwho1kgvub-b7pk76d08c.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\r6m6q43780-fsbi9cje9m.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wjtgi1rh0p-rzd6atqjts.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\guep4g5a70-ee0r1s7dh0.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\7roulepazy-dxx9fxp4il.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dtchs9i965-jd9uben2k1.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\1nlmtatdjq-khv3u5hwcm.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\bt02st65u6-r4e9w2rdcm.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3kr5eopnu7-lcd1t2u6c8.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kpk2krikw7-c2oey78nd0.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2y7mf9gmcn-tdbxkamptv.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\lqofhorse2-j5mq2jizvt.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\euybgbc5yz-06098lyss8.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\4apyuojunx-nvvlpmu67g.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\26ayphpiuy-s35ty4nyc5.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rduaul0yzf-pj5nd1wqec.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\7839lk8gr7-46ein0sx1k.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nilr8f00dq-v0zj4ognzu.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\h4n493zetj-37tfw0ft22.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\w0bivlithv-hrwsygsryq.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\e6vzxa4ciz-pk9g2wxc8p.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\we0zignsrn-ft3s53vfgj.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3dm0arqe1c-6cfz1n2cew.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\yut541bz0r-6pdc2jztkx.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\jk0s5fi0pw-493y06b0oq.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5gkzvw2g92-iovd86k7lj.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\zyu322bt9v-vr1egmr9el.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2kck56oszy-kbrnm935zg.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hn7q0u4xro-jj8uyg4cgr.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t9c5xfh2tf-y7v9cxd14o.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\agjctq3y5f-notf2xhcfb.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\1mxusf8v7y-h1s4sie4z3.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\pfg76lvk87-63fj8s7r0e.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rplkpx3bvm-0j3bgjxly4.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\67yyvsqwxx-47otxtyo56.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ybmuo5c5w9-4v8eqarkd7.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\xk8pzu3eps-356vix0kms.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cubi4xqqt-83jwlth58m.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\4iqzpu0i8c-mrlpezrjn3.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nj9kwb401f-lzl9nlhx6b.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0pdo45iwsy-ag7o75518u.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\z9wv4xozj0-x0q3zqp4vz.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9nwdpecjn2-0i3buxo5is.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\82lk2gx3cc-o1o13a6vjx.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\eua1ny6d2z-ttgo8qnofa.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\u1u67utz9x-2z0ns9nrw6.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\bhygl5wg3q-muycvpuwrr.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2g090u22ue-87fc7y1x7t.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\zj6ilmpb3m-mlv21k5csn.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j6gnrchdmh-4dq87kgfc3.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k43sxwj25v-4dq87kgfc3.gz
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.build.RazorPagesApp.props
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+D:\Мартынов полезное\Work\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6kahdr45nz-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kodtyf0o85-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9bucq5t73f-{0}-073ns27sys-073ns27sys.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\891j2h30vv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\00w21mn9p5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\17ixk4za1x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k5xsak8poy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nybwtmj728-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mirajcuucd-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxqqdb2rw7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\c1zny257q9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qffkdjsekf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cf3kbq6laf-{0}-ub07r2b239-ub07r2b239.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kr609q7usl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dfgd3y3r9r-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\m3ut6a9lpw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dkww57kqyp-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2xqw48ubej-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fbad0msyo6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6y5dzhsyjx-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mzvyncv9aw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ro7vt75z7u-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rlujrjvoo3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ft41p76lii-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wf4xt878yy-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qeopbi0vhs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gia1g4vka3-{0}-06098lyss8-06098lyss8.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kge53jnwg8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\81xv885f7z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d8t1oxq5xd-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g2naz8w2jl-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\q5td0f2yi4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\p8c22fcpim-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mjn6r2mdae-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cevsmb1sf4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\oyyhsbqkz5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0skcrrdol2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\15d2r9zbyt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5ztyybk93t-{0}-493y06b0oq-493y06b0oq.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d653hwd13e-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6ml3rrs7jn-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ka8uqt3smf-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wx6ahclvbw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ltqgd24luu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\v7t1o1tcvl-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t4v4x5ox44-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cxbd81o6c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ljto9dyris-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\artontfwsu-{0}-47otxtyo56-47otxtyo56.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\elyl6d5m3b-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\uuletnjlxr-{0}-356vix0kms-356vix0kms.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\n45ezhmvc5-{0}-83jwlth58m-83jwlth58m.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cg07gda1uh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\td541pq8xq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxlqbzw3bh-{0}-ag7o75518u-ag7o75518u.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dio3znbpab-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gye1lmi0ms-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\czjkfplh2n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g0c9wf2ry4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\tte49jd9yp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fmm7fcoukh-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j04ddcaokw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hl7bzqf0xn-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fywz83z1o6-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mq3aoh37pg-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\swae.build.ex.cache
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\Docker\26_05_21_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.Development.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\appsettings.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.staticwebassets.runtime.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.exe
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.deps.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.runtimeconfig.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\bin\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\scopedcss\projectbundle\RazorPagesApp.bundle.scp.css
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6kahdr45nz-{0}-b9sayid5wm-b9sayid5wm.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kodtyf0o85-{0}-61n19gt1b8-61n19gt1b8.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\9bucq5t73f-{0}-073ns27sys-073ns27sys.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\891j2h30vv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\00w21mn9p5-{0}-bqjiyaj88i-bqjiyaj88i.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\17ixk4za1x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\k5xsak8poy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\nybwtmj728-{0}-aexeepp0ev-aexeepp0ev.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mirajcuucd-{0}-d7shbmvgxk-d7shbmvgxk.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxqqdb2rw7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\c1zny257q9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qffkdjsekf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cf3kbq6laf-{0}-ub07r2b239-ub07r2b239.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kr609q7usl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dfgd3y3r9r-{0}-b7pk76d08c-b7pk76d08c.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\m3ut6a9lpw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dkww57kqyp-{0}-rzd6atqjts-rzd6atqjts.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\2xqw48ubej-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fbad0msyo6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6y5dzhsyjx-{0}-jd9uben2k1-jd9uben2k1.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mzvyncv9aw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ro7vt75z7u-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\rlujrjvoo3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ft41p76lii-{0}-c2oey78nd0-c2oey78nd0.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wf4xt878yy-{0}-tdbxkamptv-tdbxkamptv.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\qeopbi0vhs-{0}-j5mq2jizvt-j5mq2jizvt.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gia1g4vka3-{0}-06098lyss8-06098lyss8.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\kge53jnwg8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\81xv885f7z-{0}-s35ty4nyc5-s35ty4nyc5.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d8t1oxq5xd-{0}-pj5nd1wqec-pj5nd1wqec.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g2naz8w2jl-{0}-46ein0sx1k-46ein0sx1k.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\q5td0f2yi4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\p8c22fcpim-{0}-37tfw0ft22-37tfw0ft22.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mjn6r2mdae-{0}-hrwsygsryq-hrwsygsryq.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cevsmb1sf4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\oyyhsbqkz5-{0}-ft3s53vfgj-ft3s53vfgj.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\0skcrrdol2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\15d2r9zbyt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\5ztyybk93t-{0}-493y06b0oq-493y06b0oq.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\d653hwd13e-{0}-iovd86k7lj-iovd86k7lj.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\6ml3rrs7jn-{0}-vr1egmr9el-vr1egmr9el.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ka8uqt3smf-{0}-kbrnm935zg-kbrnm935zg.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\wx6ahclvbw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ltqgd24luu-{0}-y7v9cxd14o-y7v9cxd14o.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\v7t1o1tcvl-{0}-notf2xhcfb-notf2xhcfb.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\t4v4x5ox44-{0}-h1s4sie4z3-h1s4sie4z3.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\3cxbd81o6c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\ljto9dyris-{0}-0j3bgjxly4-0j3bgjxly4.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\artontfwsu-{0}-47otxtyo56-47otxtyo56.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\elyl6d5m3b-{0}-4v8eqarkd7-4v8eqarkd7.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\uuletnjlxr-{0}-356vix0kms-356vix0kms.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\n45ezhmvc5-{0}-83jwlth58m-83jwlth58m.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\cg07gda1uh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\td541pq8xq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fxlqbzw3bh-{0}-ag7o75518u-ag7o75518u.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\dio3znbpab-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\gye1lmi0ms-{0}-0i3buxo5is-0i3buxo5is.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\czjkfplh2n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\g0c9wf2ry4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\tte49jd9yp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fmm7fcoukh-{0}-muycvpuwrr-muycvpuwrr.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\j04ddcaokw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\hl7bzqf0xn-{0}-mlv21k5csn-mlv21k5csn.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\fywz83z1o6-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\compressed\mq3aoh37pg-{0}-e8u4ejlt7d-e8u4ejlt7d.gz
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.development.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\swae.build.ex.cache
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\Docker\26_05_23_Smart_PGDB_BE_FE_keenetic_https_migration_debug_API\RazorPagesApp\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
