@@ -42,8 +42,9 @@
                              <td>@Sensor.Id</td>
                              <td>@Sensor.temp</td>
                              <td>@Sensor.hum</td>
-                             <td>@Sensor.date.TimeOfDay.ToString().Substring(0, 5)</td>
-                             <td>@Sensor.date.Date.ToString().Substring(0, 10)</td>
+                             <td>@Sensor.date.ToString("HH:mm")</td>
+                             <td>@Sensor.date.ToString("dd.MM.yyyy")</td>
+
 
                          </tr>  
         }

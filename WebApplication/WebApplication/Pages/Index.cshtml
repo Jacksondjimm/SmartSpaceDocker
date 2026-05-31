@@ -42,43 +42,43 @@
     <td>@Model.SensorData_01.OrderByDescending(s => s.date).FirstOrDefault().Id</td>
     <td>@Model.SensorData_01.OrderByDescending(s => s.date).FirstOrDefault().temp</td>
     <td>@Model.SensorData_01.OrderByDescending(s => s.date).FirstOrDefault().hum</td>
-    <td>@Model.SensorData_01.OrderByDescending(s => s.date).FirstOrDefault().date.TimeOfDay.ToString().Substring(0, 5)</td>
-    <td>@Model.SensorData_01.OrderByDescending(s => s.date).FirstOrDefault().date.Date.ToString().Substring(0, 10)</td>
+    <td>@Model.SensorData_01.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("HH:mm")</td>
+    <td>@Model.SensorData_01.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("dd.MM.yyyy")</td>
   </tr>  
   <tr align=center>
     <td>Детская</td>
     <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().Id</td>
     <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().temp</td>
     <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().hum</td>
-    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.TimeOfDay.ToString().Substring(0, 5)</td>
-    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.Date.ToString().Substring(0, 10)</td>
-  </tr>     
-  <tr align=center>
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("HH:mm")</td>
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("dd.MM.yyyy")</td>
+        </tr>
+        <tr align=center>
     <td>Зал</td>
     <td>@Model.SensorData_03.OrderByDescending(s => s.date).FirstOrDefault().Id</td>
     <td>@Model.SensorData_03.OrderByDescending(s => s.date).FirstOrDefault().temp</td>
     <td>@Model.SensorData_03.OrderByDescending(s => s.date).FirstOrDefault().hum</td>
-    <td>@Model.SensorData_03.OrderByDescending(s => s.date).FirstOrDefault().date.TimeOfDay.ToString().Substring(0, 5)</td>
-    <td>@Model.SensorData_03.OrderByDescending(s => s.date).FirstOrDefault().date.Date.ToString().Substring(0, 10)</td>
-  </tr>   
-  <tr align=center>
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("HH:mm")</td>
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("dd.MM.yyyy")</td>
+        </tr>
+        <tr align=center>
     <td>Коридор</td>
     <td>@Model.SensorData_04.OrderByDescending(s => s.date).FirstOrDefault().Id</td>
     <td>@Model.SensorData_04.OrderByDescending(s => s.date).FirstOrDefault().temp</td>
     <td>@Model.SensorData_04.OrderByDescending(s => s.date).FirstOrDefault().hum</td>
-    <td>@Model.SensorData_04.OrderByDescending(s => s.date).FirstOrDefault().date.TimeOfDay.ToString().Substring(0, 5)</td>
-    <td>@Model.SensorData_04.OrderByDescending(s => s.date).FirstOrDefault().date.Date.ToString().Substring(0, 10)</td>
-  </tr>  
-  <tr align=center>
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("HH:mm")</td>
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("dd.MM.yyyy")</td>
+        </tr>
+        <tr align=center>
    <td>Кухня</td>
     <td>@Model.SensorData_05.OrderByDescending(s => s.date).FirstOrDefault().Id</td>
     <td>@Model.SensorData_05.OrderByDescending(s => s.date).FirstOrDefault().temp</td>
     <td>@Model.SensorData_05.OrderByDescending(s => s.date).FirstOrDefault().hum</td>
-    <td>@Model.SensorData_05.OrderByDescending(s => s.date).FirstOrDefault().date.TimeOfDay.ToString().Substring(0, 5)</td>
-    <td>@Model.SensorData_05.OrderByDescending(s => s.date).FirstOrDefault().date.Date.ToString().Substring(0, 10)</td>
-  </tr>  
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("HH:mm")</td>
+    <td>@Model.SensorData_02.OrderByDescending(s => s.date).FirstOrDefault().date.ToString("dd.MM.yyyy")</td>
+        </tr>
 
-</table>
+    </table>
 <br><br><br>
 <!-- конец таблицы-->
 
