@@ -50,8 +50,14 @@ namespace RazorPagesApp.Pages
                         temp_ = float.Parse(Request.Query["temp"], formatter);// для передачи точки вместо запятой  //https://metanit.com/sharp/tutorial/20.4.php
                         hum_ = float.Parse(Request.Query["hum"], formatter);
                         num_ = float.Parse(Request.Query["num"], formatter);
-                        
-                        switch (num_)
+                        // Защита от невалидных чисел
+                        if (float.IsNaN(temp_) || float.IsInfinity(temp_))
+                            temp_ = 0; // или можно игнорировать всю запись, или сохранить предыдущее валидное значение
+                        if (float.IsNaN(hum_) || float.IsInfinity(hum_))
+                            hum_ = 0;
+                        // num_ проверять не обязательно, но можно аналогично
+
+                switch (num_)
                         {
                             case 11111: //your secret number
                                 DateTimeOffset dateSearch_01 = DateTimeOffset.Now;

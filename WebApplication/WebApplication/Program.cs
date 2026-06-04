@@ -63,7 +63,11 @@ builder.Services.AddHealthChecks()
 
 // добавляем в приложение сервисы Razor Pages
 builder.Services.AddRazorPages();
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.Converters.Add(new SafeFloatConverter());
+    });
 
 var app = builder.Build();
 
